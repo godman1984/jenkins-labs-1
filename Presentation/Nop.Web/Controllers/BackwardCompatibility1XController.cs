@@ -26,6 +26,7 @@ namespace Nop.Web.Controllers
         private readonly ICustomerService _customerService;
         #endregion
 
+
 		#region Constructors
 
         public BackwardCompatibility1XController(IProductService productService,
