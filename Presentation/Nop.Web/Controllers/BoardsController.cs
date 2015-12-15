@@ -26,6 +26,7 @@ namespace Nop.Web.Controllers
     [NopHttpsRequirement(SslRequirement.No)]
     public partial class BoardsController : BasePublicController
     {
+        aaaa;
         #region Fields
 
         private readonly IForumService _forumService;
