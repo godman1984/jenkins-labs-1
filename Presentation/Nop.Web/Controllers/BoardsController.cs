@@ -27,6 +27,7 @@ namespace Nop.Web.Controllers
     public partial class BoardsController : BasePublicController
     {
         aaaa;
+        test;
         #region Fields
 
         private readonly IForumService _forumService;
