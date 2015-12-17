@@ -1,9 +1,4 @@
-using System;
-using System.Text;
-using Newtonsoft.Json;
-using Nop.Core.Configuration;
-using Nop.Core.Infrastructure;
-using StackExchange.Redis;
+
 
 namespace Nop.Core.Caching
 {
