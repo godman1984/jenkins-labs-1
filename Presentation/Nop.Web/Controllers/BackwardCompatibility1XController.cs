@@ -15,6 +15,7 @@ namespace Nop.Web.Controllers
     {
 		#region Fields
 
+
         private readonly IProductService _productService;
         private readonly ICategoryService _categoryService;
         private readonly IManufacturerService _manufacturerService;
@@ -25,7 +26,6 @@ namespace Nop.Web.Controllers
         private readonly IForumService _forumService;
         private readonly ICustomerService _customerService;
         #endregion
-
 
 		#region Constructors
 
