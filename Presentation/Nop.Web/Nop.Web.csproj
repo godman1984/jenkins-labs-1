@@ -1153,6 +1153,8 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Properties\PublishProfiles\DeployToAzure.pubxml" />
+    <None Include="Properties\PublishProfiles\DeployToAzure02.pubxml" />
+    <None Include="Properties\PublishProfiles\DeployToAzure03.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\fineuploader\iframe.xss.response-4.2.2.js" />
     <Content Include="Scripts\fineuploader\jquery.fineuploader-4.2.2.js" />
